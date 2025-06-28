@@ -1,10 +1,10 @@
 <h1 align="center">
-  CARROSSEL SAUDÁVEL
+  NIKE ZOOM
 </h1>
 
 ## 💻 Projeto
 
-Este projeto é um tutorial que ensina a como criar um projeto de **CARROSSEL SAUDÁVEL** ao usar _HTML_ _CSS_ e _JAVASCRIPT_.
+Este projeto é um tutorial que ensina a como criar um projeto Responsivo com animação **NIKE ZOOM** ao usar _HTML_ _CSS_ e _JAVASCRIPT_.
 
 ## 🚀 Tecnologias
 
@@ -24,4 +24,4 @@ Este projeto é um tutorial que ensina a como criar um projeto de **CARROSSEL SA
 - [ ] Adicionar efeito de hover nos botões
 
 ## 📺 Tutorial no Youtube
-<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Esse foi um projeto que eu aprendi no Youtube</h2>
